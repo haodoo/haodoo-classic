@@ -1,6 +1,6 @@
 This repo holds the core artifacts and files for the website, Haodoo.net. Using these files, one can construct a website that serves out the e-books via a browser interface.
 
-Haodoo_Content_Mapping.sql contains a catalog table that describes the classification and location of the e-books on the website. Only entries with a category name assigned are books that are visible on the website. If an entry has [NA] as the category name, this entry is likely a duplicate or an orphan file on the server.
+Haodoo_Catalog_Table.csv contains a catalog table that describes the classification and location of the e-books on the website. Only entries with a category name assigned are books that are visible on the website. If an entry has [NA] as the category name, this entry is likely a duplicate or an orphan file on the server.
 
 Using the book《楚留香傳奇．午夜蘭花》with a book_code of 173 as an example:
 
