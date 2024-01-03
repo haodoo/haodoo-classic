@@ -1,5 +1,4 @@
 book_code,book_title,author_name,category_name,title_link,script_section,book_type,description_link,cover_image,bin_loc,volume_track,volume_title,series_name,series_order,file_updb,file_pdb,file_prc,file_mobi,file_epub,file_vepub,file_mp3,first_published,last_modified
-1010490100,1Q84 Book 3 10月／12月,村上春樹,言情小說,?M=Share&P=1010490100,Share,text,Share/1010490100.html,1010490100.jpg,P,[NA],[NA],[NA],[NA],1010490100.updb,[NA],[NA],[NA],1010490100.epub,V1010490100.epub,[NA],1/30/2023,1/30/2023
 0101,【散花女俠】,梁羽生,武俠小說,?M=Share&P=0101,Share,text,Share/0101.html,covers/0101.jpg,I,[NA],[NA],明朝作品,3,0101.updb,0101.pdb,0101.prc,V0101.mobi,0101.epub,V0101.epub,[NA],12/1/2017,12/1/2017
 0103,[NA],[NA],[NA],[NA],[NA],[NA],[NA],[NA],I,a,[NA],[NA],[NA],[NA],0103a.pdb,[NA],[NA],[NA],[NA],[NA],12/1/2017,12/1/2017
 0103,[NA],[NA],[NA],[NA],[NA],[NA],[NA],[NA],I,b,[NA],[NA],[NA],[NA],0103b.pdb,[NA],[NA],[NA],[NA],[NA],12/1/2017,12/1/2017
@@ -685,6 +684,7 @@ book_code,book_title,author_name,category_name,title_link,script_section,book_ty
 1010490097,中國文化講話,香港大學東方文化研究院,隨身智囊,?M=Share&P=1010490097,Share,text,Share/1010490097.html,1010490097.jpg,P,[NA],[NA],[NA],[NA],1010490097.updb,[NA],[NA],[NA],1010490097.epub,V1010490097.epub,[NA],3/1/2023,3/1/2023
 1010490098,英倫情人,麥可．翁達傑,言情小說,?M=Share&P=1010490098,Share,text,Share/1010490098.html,1010490098.jpg,P,[NA],[NA],[NA],[NA],1010490098.updb,[NA],[NA],[NA],1010490098.epub,V1010490098.epub,[NA],3/15/2023,3/15/2023
 1010490099,查令十字路84號,海蓮．漢芙,小說園地,?M=Share&P=1010490099,Share,text,Share/1010490099.html,1010490099.jpg,P,[NA],[NA],[NA],[NA],1010490099.updb,[NA],[NA],[NA],1010490099.epub,V1010490099.epub,[NA],3/3/2023,3/3/2023
+1010490100,1Q84 Book 3 10月／12月,村上春樹,言情小說,?M=Share&P=1010490100,Share,text,Share/1010490100.html,1010490100.jpg,P,[NA],[NA],[NA],[NA],1010490100.updb,[NA],[NA],[NA],1010490100.epub,V1010490100.epub,[NA],1/30/2023,1/30/2023
 1010490101,泰絲家的女兒們,琴．菲莉普絲,小說園地,?M=Share&P=1010490101,Share,text,Share/1010490101.html,1010490101.jpg,P,[NA],[NA],[NA],[NA],1010490101.updb,[NA],[NA],[NA],1010490101.epub,V1010490101.epub,[NA],2/10/2023,2/10/2023
 1010490102,談美,朱光潛,隨身智囊,?M=Share&P=1010490102,Share,text,Share/1010490102.html,1010490102.jpg,P,[NA],[NA],[NA],[NA],1010490102.updb,[NA],[NA],[NA],1010490102.epub,V1010490102.epub,[NA],2/6/2023,2/6/2023
 1010490103,烏鴉,Charles Dickinson,小說園地,?M=Share&P=1010490103,Share,text,Share/1010490103.html,1010490103.jpg,P,[NA],[NA],[NA],[NA],1010490103.updb,[NA],[NA],[NA],1010490103.epub,V1010490103.epub,[NA],3/17/2023,3/17/2023
@@ -4495,6 +4495,7 @@ AB001,你一定很好奇的歷史名人飲食怪癖,王志堅。盧小溪,有聲
 AB001,你一定很好奇的歷史名人飲食怪癖,王志堅。盧小溪,有聲書籍,?M=book&P=audioAB001,book,audio,book/audioAB001.html,[NA],MP3,77,第四十三篇《黃敬臨和他的千古奇宴》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB001-77.mp3,12/12/2023,12/12/2023
 AB001,你一定很好奇的歷史名人飲食怪癖,王志堅。盧小溪,有聲書籍,?M=book&P=audioAB001,book,audio,book/audioAB001.html,[NA],MP3,78,第四十四篇《紅頂吃棍譚延闓》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB001-78.mp3,12/19/2023,12/19/2023
 AB001,你一定很好奇的歷史名人飲食怪癖,王志堅。盧小溪,有聲書籍,?M=book&P=audioAB001,book,audio,book/audioAB001.html,[NA],MP3,79,第四十五篇《李叔同寺院斷食記》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB001-79.mp3,12/26/2023,12/26/2023
+AB001,你一定很好奇的歷史名人飲食怪癖,王志堅。盧小溪,有聲書籍,?M=book&P=audioAB001,book,audio,book/audioAB001.html,[NA],MP3,80,第四十六篇《魯迅這樣吃》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB001-80.mp3,1/2/2024,1/2/2024
 AB002,台北人,白先勇,有聲書籍,?M=book&P=audioAB002,book,audio,book/audioAB002.html,[NA],MP3,1,第一篇《永遠的尹雪艷（一）》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB002-01.mp3,2/9/2023,2/9/2023
 AB002,台北人,白先勇,有聲書籍,?M=book&P=audioAB002,book,audio,book/audioAB002.html,[NA],MP3,2,第一篇《永遠的尹雪艷（二）》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB002-02.mp3,2/9/2023,2/9/2023
 AB002,台北人,白先勇,有聲書籍,?M=book&P=audioAB002,book,audio,book/audioAB002.html,[NA],MP3,3,第一篇《永遠的尹雪艷（三）》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB002-03.mp3,2/9/2023,2/9/2023
