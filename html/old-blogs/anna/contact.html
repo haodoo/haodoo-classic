@@ -1,0 +1,99 @@
+<?php
+// Address error handling.
+date_default_timezone_set('America/Los_Angeles');
+ini_set('display_errors', 1);
+error_reporting(E_ALL ^ E_NOTICE);
+function LogMail($subject, $body) {
+
+   $log = "log/mail/" . date("ymd") . ".log";
+   $handle = fopen($log, 'at');
+   if ($handle) {
+      $msg = date("H:i:s ") . "寫信給孟絲\r\n主旨：" . $subject . "\r\n" . $body . "\r\n\r\n";
+      fwrite($handle, $msg);
+      fclose($handle);
+      return;
+      }
+
+   }
+
+$max_chars = 10000;
+// Obtain POST data.
+
+$ip = $_SERVER['REMOTE_ADDR'];
+$Name = $_POST['Name'];
+$From = $_POST['From'];
+$Subject = $_POST['Subject'];
+$Message = $_POST['Message'];
+
+if ($_POST['submit'] == '傳送') { // Form has been submitted.
+
+   $problem = false;
+   if (strlen($Name) < 1) {
+      $problem = true;
+      $error_array[] = '您的姓名';
+      }
+   if (!preg_match('/^[_\.0-9a-zA-Z-]+@([0-9a-zA-Z][0-9a-zA-Z-]+\.)+[a-zA-Z]{2,6}$/i', $From)) {
+      $problem = true;
+      $error_array[] = '您的信箱';
+      }
+   if (strlen($Subject) < 1) {
+      $problem = true;
+      $error_array[] = '主旨';
+      }
+   if ((strlen($Message) < 1) || (strlen($Message) > $max_chars)) {
+      $problem = true;
+      $error_array[] = '內容';
+      }
+   if ($problem) {
+      echo '<p>以下欄位未輸入或不正確：</p>' . "\n" .
+                 '<ul>' . "\n";
+      foreach ($error_array as $error_item) {
+         echo '<li>' . $error_item . '</li>' . "\n";
+         }
+      echo '</ul>' . "\n" .
+      '<p>請更正後再傳送一次。</p>' . "\n";
+      }
+   else {
+      $body = "來信者： "  . $Name . "  [" . $ip . "]\r\n" . $From . "\r\n\r\n" . $Message;
+      LogMail($Subject, $body);
+      //$success = mail("contact.1216@haodoo.net", "[寫信給孟絲] " . $Subject, $body, "From:contact@haodoo.net");
+      echo "<font color=CC3300>謝謝，已寄出。</font><br>";
+	  
+      }
+
+   }
+
+?>
+
+<h4 >寫信給孟絲</h4>
+<form action="?M=anna&P=contact" method="post">
+<table>
+<tr class="ftype">
+<th bgcolor="#e6e6fa" align=left>&nbsp;您的姓名&nbsp;</th>
+<td><input name="Name" id="Name" type="text"
+value="<?php echo $Name; ?>"
+size="30" maxlength="30">
+</td></tr>
+
+<tr class="ftype">
+<th bgcolor="#e6e6fa" align=left>&nbsp;您的信箱&nbsp;</th>
+<td><input name="From" id="From" type="text"
+value="<?php echo htmlentities($From, ENT_QUOTES); ?>"
+size="50" maxlength="50">
+</td></tr>
+
+<tr class="ftype">
+<th bgcolor="#e6e6fa" align=left>&nbsp;&nbsp;&nbsp;主旨</th>
+<td><input name="Subject" id="Subject" type="text"
+ value="<?php echo $Subject; ?>"
+size="50" maxlength="60">
+</td></tr>
+<tr class="ftype">
+
+<th bgcolor="#e6e6fa" align=left>&nbsp;&nbsp;&nbsp;內容</th>
+</tr>
+</table>
+<textarea name="Message" id="Message" rows="20" cols="55" class="m11"><?php echo $Message; ?></textarea>
+<br>
+<input type="submit" name="submit" value="傳送">
+</form>
