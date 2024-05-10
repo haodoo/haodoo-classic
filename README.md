@@ -12,8 +12,6 @@ https://haodoo.net/PDB/D/173.updb for the UPDB format OR
 https://haodoo.net/PDB/D/173.epub for the horizontal EPUB format OR
 https://haodoo.net/PDB/D/V173.epub for the vertical EPUB format
 
-The “MP3” directory holds the audiobook files. For example, https://haodoo.net/MP3/0836-01.mp3.
-
 The “book” and “Share” directories hold the book description in HTML format. The assignment of each book description file can be found in the catalog table. For example, https://haodoo.net/book/173.html.
 
 The “covers” directory holds the cover graphic files for a book. Not all books have an associated cover. The assignment of each book cover file can be found in the catalog table. For example, https://haodoo.net/covers/173.jpg.
