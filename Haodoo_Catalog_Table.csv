@@ -1885,7 +1885,7 @@ book_code,book_title,author_name,category_name,title_link,script_section,book_ty
 12I0,【天涯江湖路】,雲中岳,武俠小說,?M=book&P=12I0,book,text,book/12I0.html,[NA],D,[NA],[NA],行刺天下系列,3,12I0.updb,12I0.pdb,12I0.prc,[NA],12I0.epub,V12I0.epub,[NA],12/1/2017,12/1/2017
 12I1,【紅葉詩】,獨孤紅,武俠小說,?M=book&P=12I1,book,text,book/12I1.html,[NA],D,[NA],[NA],[NA],[NA],12I1.updb,12I1.pdb,12I1.prc,V12I1.mobi,12I1.epub,V12I1.epub,[NA],12/1/2017,12/1/2017
 12I2,【香港鬼故事】,倪匡,奇幻小說,?M=book&P=12I2,book,text,book/12I2.html,covers/12I2.jpg,G,[NA],[NA],[NA],[NA],12I2.updb,12I2.pdb,12I2.prc,V12I2.mobi,12I2.epub,V12I2.epub,[NA],12/1/2017,12/1/2017
-12I3,【記憶像鐵軌一樣長】,余光中,隨身智囊,?M=book&P=12I3,book,text,book/12I3.html,covers/12I3.jpg,B,[NA],[NA],[NA],[NA],12I3.updb,12I3.pdb,12I3.prc,V12I3.mobi,12I3.epub,V12I3.epub,[NA],12/1/2017,12/1/2017
+12I3,【記憶像鐵軌一樣長】,余光中,隨身智囊,?M=book&P=12I3,book,text,book/12I3.html,covers/12I3.jpg,B,[NA],[NA],[NA],[NA],12I3.updb,12I3.pdb,12I3.prc,V12I3.mobi,12I3.epub,V12I3.epub,[NA],12/1/2017,10/8/2024
 12I4,【突破人生困境的寓言】,林清玄,隨身智囊,?M=book&P=12I4,book,text,book/12I4.html,covers/12I4.jpg,B,[NA],[NA],[NA],[NA],12I4.updb,12I4.pdb,12I4.prc,[NA],12I4.epub,V12I4.epub,[NA],12/1/2017,12/1/2017
 12I5,【黑笑小說】,東野圭吾,懸疑小說,?M=book&P=12I5,book,text,book/12I5.html,covers/12I5.jpg,E,[NA],[NA],笑小說系列,3,12I5.updb,12I5.pdb,12I5.prc,[NA],12I5.epub,V12I5.epub,[NA],12/1/2017,12/1/2017
 12I6,【燭芯】,林海音,小說園地,?M=book&P=12I6,book,text,book/12I6.html,covers/12I6.jpg,H,[NA],[NA],[NA],[NA],12I6.updb,12I6.pdb,12I6.prc,[NA],12I6.epub,V12I6.epub,[NA],12/1/2017,12/1/2017
@@ -4824,6 +4824,7 @@ AB005,神鵰俠侶,金庸,有聲書籍,?M=book&P=audioAB005,book,audio,book/audi
 AB005,神鵰俠侶,金庸,有聲書籍,?M=book&P=audioAB005,book,audio,book/audioAB005.html,[NA],MP3,35,第三十五回《三枚金針》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB005-35.mp3,9/21/2024,9/21/2024
 AB005,神鵰俠侶,金庸,有聲書籍,?M=book&P=audioAB005,book,audio,book/audioAB005.html,[NA],MP3,36,第三十六回《獻禮祝壽》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB005-36.mp3,9/28/2024,9/28/2024
 AB005,神鵰俠侶,金庸,有聲書籍,?M=book&P=audioAB005,book,audio,book/audioAB005.html,[NA],MP3,37,第三十七回《三世恩怨》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB005-37.mp3,10/5/2024,10/5/2024
+AB005,神鵰俠侶,金庸,有聲書籍,?M=book&P=audioAB005,book,audio,book/audioAB005.html,[NA],MP3,38,第三十八回《生死茫茫》,劉小珍錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB005-38.mp3,10/12/2024,10/12/2024
 AB006,我的前半生,愛新覺羅．溥儀,有聲書籍,?M=book&P=audioAB006,book,audio,book/audioAB006.html,[NA],MP3,01,第一章《我的家世》,阿馮斯錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB006-01.mp3,8/3/2024,8/3/2024
 AB006,我的前半生,愛新覺羅．溥儀,有聲書籍,?M=book&P=audioAB006,book,audio,book/audioAB006.html,[NA],MP3,02,第二章《我的童年》,阿馮斯錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB006-02.mp3,8/17/2024,8/17/2024
 AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&P=audioAB007,book,audio,book/audioAB007.html,[NA],MP3,01,開篇一《遠古的中國烹飪》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB007-01.mp3,8/24/2024,8/24/2024
@@ -4834,6 +4835,7 @@ AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&
 AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&P=audioAB007,book,audio,book/audioAB007.html,[NA],MP3,06,第一篇《夏商周時代》第四章《御膳房主任成了五品公務員》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB007-06.mp3,9/28/2024,9/28/2024
 AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&P=audioAB007,book,audio,book/audioAB007.html,[NA],MP3,07,第一篇《夏商周時代》第五章《帝王宴上的元始天尊》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB007-07.mp3,10/5/2024,10/5/2024
 AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&P=audioAB007,book,audio,book/audioAB007.html,[NA],MP3,08,第一篇《夏商周時代》第六章《周宮廷的飲食禁忌及規矩》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB007-08.mp3,10/5/2024,10/5/2024
+AB007,為帝王上菜：歷代宮廷御醫傳奇,林志國,有聲書籍,?M=book&P=audioAB007,book,audio,book/audioAB007.html,[NA],MP3,09,第一篇《夏商周時代》第七章《歷代宮廷御膳傳抄的保留食譜》,書亞錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],AB007-09.mp3,10/12/2024,10/12/2024
 audio0836,《男女大不同 1-6章》,約翰．葛瑞,有聲書籍,?M=book&P=audio0836,book,audio,book/audio0836.html,[NA],MP3,1,《作者序─不只是「好天氣朋友」》,喻琳錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],0836-01.mp3,12/1/2017,12/1/2017
 audio0836,《男女大不同 1-6章》,約翰．葛瑞,有聲書籍,?M=book&P=audio0836,book,audio,book/audio0836.html,[NA],MP3,2,《譯序─作個愛情受益人》,喻琳錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],0836-02.mp3,12/1/2017,12/1/2017
 audio0836,《男女大不同 1-6章》,約翰．葛瑞,有聲書籍,?M=book&P=audio0836,book,audio,book/audio0836.html,[NA],MP3,3,《第一章　男人從火星來，女人從金星來》,喻琳錄音,[NA],[NA],[NA],[NA],[NA],[NA],[NA],0836-03.mp3,12/1/2017,12/1/2017
